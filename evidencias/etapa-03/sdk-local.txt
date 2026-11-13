@@ -1,0 +1,4 @@
+0.166.0
+(self, file_path: 'str', contents: 'BinaryIO', *, overwrite: 'Optional[bool]' = None)
+(self, statement: 'str', warehouse_id: 'str', *, byte_limit: 'Optional[int]' = None, catalog: 'Optional[str]' = None, disposition: 'Optional[Disposition]' = None, format: 'Optional[Format]' = None, on_wait_timeout: 'Optional[ExecuteStatementRequestOnWaitTimeout]' = None, parameters: 'Optional[List[StatementParameterListItem]]' = None, query_tags: 'Optional[List[QueryTag]]' = None, row_limit: 'Optional[int]' = None, schema: 'Optional[str]' = None, wait_timeout: 'Optional[str]' = None) -> 'StatementResponse'
+(self, name: 'str', *, include_browse: 'Optional[bool]' = None) -> 'VolumeInfo'

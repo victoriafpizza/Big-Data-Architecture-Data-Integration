@@ -1,0 +1,8 @@
+test_json_lines_preserva_registros_e_linhagem (__main__.LotesLocaisTest.test_json_lines_preserva_registros_e_linhagem) ... ok
+test_sql_restringe_arquivo_e_desabilita_force (__main__.LotesLocaisTest.test_sql_restringe_arquivo_e_desabilita_force) ... ok
+test_totais_fisicos_e_entidades_dos_snapshots (__main__.LotesLocaisTest.test_totais_fisicos_e_entidades_dos_snapshots) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.790s
+
+OK
